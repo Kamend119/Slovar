@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23_MarkupCompile.cache
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23_MarkupCompile.lref
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\bin\Debug\task.24.10.23.exe.config
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\bin\Debug\task.24.10.23.exe
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\bin\Debug\task.24.10.23.pdb
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.g.resources
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task._24._10._23.Properties.Resources.resources
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.exe
+C:\Users\User\Desktop\Численные методы\task.24.10.23\task.24.10.23\obj\Debug\task.24.10.23.pdb
